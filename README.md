@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 JAVA/Python/CPP
-- 🌱 转型unixcpp了 勿念
+- 🌱 Wating for PHD
 - 📫 tyranitarx@163.com
 - 😄 干啥啥不行（
 - ⚡ Steam: [Tyranitar-](https://steamcommunity.com/id/TyranitarX/)
