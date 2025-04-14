@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![Tyranitar](https://github-readme-stats.vercel.app/api?username=TyranitarX&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyranitarX&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyranitarX&hide_progress=true&layout=donut-vertical)
